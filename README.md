@@ -36,131 +36,37 @@
 ---
 
 ### Blockchain Stack
-| Name       |
-| ---------- |
-| Solidity   |
-| Yul - Assembly   |
-| Rust       |
-| Ethereum   |
-| Solana     |
-| Substrate   |
-| Cosmos SDK  |
-| EVM         |
-| Hardhat       |
-| Foundry       |
-
+• Solidity • Yul - Assembly • Rust • Ethereum • Solana • Substrate • Cosmos SDK • EVM • Hardhat • Foundry
 
 ### Programming Languages
-
-| Name       |
-| ---------- |
-| Solidity   |
-| Yul - Assembly   |
-| Rust       |
-| C++        |
-| C#         |
-| Java       |
-| JavaScript |
-| TypeScript |
-| Python     |
----
+• Solidity • Yul - Assembly • Rust • C++ • C# • Java • JavaScript • TypeScript • Python
 
 ### Frameworks & Libraries
-
-| Name       |
-| ---------- |
-| Express.js |
-| NestJS     |
-| Spring     |
-| OpenCV     |
-| Mocha      |
-
----
+• Express.js • NestJS • Spring • OpenCV • Mocha
 
 ### Web Technologies
-
-| Name  |
-| ----- |
-| HTML5 |
-| CSS3  |
-| Reactjs  |
-
----
+• HTML5 • CSS3 • Reactjs
 
 ### Databases & Storage
-
-| Name               |
-| ------------------ |
-| Cassandra          |
-| Elasticsearch      |
-| Firebase           |
-| MongoDB            |
-| MSSQL (SQL Server) |
-| MySQL              |
-| PostgreSQL         |
-| Redis              |
-| SQLite             |
-
----
+• Cassandra • Elasticsearch • MongoDB • MSSQL (SQL Server) • MySQL • PostgreSQL • Redis • SQLite
 
 ### DevOps & Tools
-
-| Name       |
-| ---------- |
-| Git        |
-| Docker     |
-| Kubernetes |
-| Grafana    |
-| Postman    |
-| Linux (OS) |
-
----
+• Git • Docker • Kubernetes • Grafana • Postman • Linux (OS)
 
 ### Cloud Services
-
-| Name                  |
-| --------------------- |
-| AWS
-| Google Cloud Platform |
-| Firebase              |
-
----
+• AWS • Google Cloud Platform • Firebase
 
 ### Data & Messaging
-
-| Name          |
-| ------------- |
-| Kafka         |
-| Elasticsearch |
-
----
+• Kafka • Elasticsearch
 
 ### Desktop & Graphics
-
-| Name      |
-| --------- |
-| Blender   |
-| Photoshop |
-
----
+• Blender • Photoshop
 
 ### Game Engines
-
-| Name          |
-| ------------- |
-| Unity         |
-| Unreal Engine |
-| Cocos Creator |
-
----
+• Unity • Unreal Engine • Cocos Creator
 
 ### Mobile & Hardware
-
-| Name    |
-| ------- |
-| Android |
-| ios |
-| Arduino |
+• Android
 
 ---
 
