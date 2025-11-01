@@ -30,7 +30,17 @@
 
 - backgammon and WordRace Online Video Games video link [here](https://drive.google.com/drive/folders/1dAXKOSoBi3Z3Q3-DYoMArRN3GlLB0KDn?usp=sharing)
 
+## Honors & Awards
+### 🏆 ETHGlobal x Fetch.ai Innovation Lab Hackathon Winner (5th Place) [Project Link](https://ethglobal.com/showcase/valueguard-token-m9obm)
+Participated in the **ETHGlobal x Fetch.ai Innovation Lab Hackathon**, focused on exploring the intersection of **AI Agents and Web3**.
+Our team’s project, **ValueGuard Token**, won **5th place** in the *Best Use of Artificial Superintelligence Alliance* category.
 
+The project introduces an **AI-driven on-chain asset** designed to protect users’ wealth from inflation by tokenizing a **dynamically managed portfolio** of real-world assets such as **gold, oil, and bonds**.
+
+**Team Members:**
+* Sajjad Khoshakhlagh
+* Ebrahim Karimi
+* Erfan Nazemi
 ---
 
 ### My Audits Profile: <a href="https://audits.sherlock.xyz/watson/chista0x" target="blank"> Chista0x </a>
